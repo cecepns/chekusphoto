@@ -2381,6 +2381,7 @@ const AdminOrders = () => {
               </div>
             </div>
           </div>
+        </div>
         )}
       </AdminLayout>
     </>
